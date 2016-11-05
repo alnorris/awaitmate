@@ -1,11 +1,15 @@
 {
   "name": "awaitmate",
   "version": "0.0.1",
-  "description": "Get rid of try and catch blocks in async/await by wrapping your promises.",
+  "description": "git remote add origin https://github.com/alnorris/awaitmate.git.",
   "main": "awaitmate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alister Norris <hello@alisternorris.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alnorris/awaitmatet"
+  }
 }
