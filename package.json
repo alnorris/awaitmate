@@ -1,6 +1,6 @@
 {
   "name": "awaitmate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "git remote add origin https://github.com/alnorris/awaitmate.git.",
   "main": "awaitmate.js",
   "scripts": {
